@@ -9,4 +9,5 @@ Key components include:
 - Data Preprocessing: Cleaning and preparing satellite data for analysis.
 - Visualization: Generating maps and graphs to represent pollution levels.
 - Analysis: Understanding air quality trends using Python tools.
+  
 This project demonstrates how technology and data can aid in addressing real-world problems like air pollution.
