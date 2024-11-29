@@ -31,8 +31,17 @@ Understanding Air Pollution Using Satellite Imagery is a project that explores p
 **Comparison of Air Quality Indicators in Kolkata and Chennai**
 -------------
 <img width="635" alt="Screenshot 2024-11-29 at 5 19 53 PM" src="https://github.com/user-attachments/assets/f897b8e5-5c44-4d14-9afb-5abf2fae8035">
-![image](https://github.com/user-attachments/assets/88c34b50-5047-4ed1-9cea-5d5bd28034d1)
+<img width="635" alt="Screenshot 2024-11-29 at 5 19 53 PM" src="https://github.com/user-attachments/assets/fcb5a5ea-61bc-48f0-85a5-8bbd7a808d7d">
+
 The air quality data for Kolkata and Chennai shows stable pollutant levels (SO2, NO2, CO), with minimal fluctuations. Ozone levels in both cities vary slightly but remain generally steady. Overall, the air quality indicators exhibit consistent trends across the observed period.
+
+
+**Overall AQI Visualization**
+-------------
+![image](https://github.com/user-attachments/assets/cf701688-c858-4b24-b8e9-761b3ba68dec)
+![image](https://github.com/user-attachments/assets/df8087c1-4502-487b-90b8-a685717a51bf)
+
+
 
 
 
