@@ -41,7 +41,7 @@ The air quality data for Kolkata and Chennai shows stable pollutant levels (SO2,
 ![image](https://github.com/user-attachments/assets/cf701688-c858-4b24-b8e9-761b3ba68dec)
 ![image](https://github.com/user-attachments/assets/df8087c1-4502-487b-90b8-a685717a51bf)
 
-
+The air quality in Chennai is overall moderate, with all pollutants except aerosols and ozone being in the "Good" category. In contrast, Kolkata's air quality is unhealthy due to a high aerosol concentration despite other pollutants being in the "Good" range.
 
 
 
