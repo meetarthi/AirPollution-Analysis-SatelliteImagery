@@ -1,8 +1,6 @@
 # AirPollution-Analysis-SatelliteImagery
-----------------------------------
-This repository features the code and resources used in my talk at Chennaipy's November 2024 meetup, titled "Understanding Air Pollution using Satellite Imagery".
 
-The project explores the potential of satellite data in analyzing air pollution levels and identifying patterns across regions. By preprocessing satellite imagery and leveraging visualization tools, it highlights insights that contribute to understanding environmental challenges.
+Understanding Air Pollution Using Satellite Imagery is a project that explores persistent air pollution levels in India despite various control measures. The project focuses on analyzing satellite data to compare pollutant levels across Indian cities, particularly highlighting differences before and after Diwali
 
 Key components include:
 
