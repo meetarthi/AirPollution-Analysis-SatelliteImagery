@@ -1,4 +1,4 @@
-# AirPollution-Analysis-SatelliteImagery
+# AirPollution-Analysis-SatelliteImagery#
 
 Understanding Air Pollution Using Satellite Imagery is a project that explores persistent air pollution levels in India despite various control measures. The project focuses on analyzing satellite data to compare pollutant levels across Indian cities, particularly highlighting differences before and after Diwali
 -------------------------
