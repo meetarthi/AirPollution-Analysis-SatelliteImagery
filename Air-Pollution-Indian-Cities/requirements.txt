@@ -1,0 +1,9 @@
+sentinelhub
+geopandas
+eo-learn
+eo-learn[visualization]
+matplotlib
+imageio
+numpy
+pandas
+pillow
